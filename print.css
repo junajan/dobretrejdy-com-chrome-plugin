@@ -1,0 +1,70 @@
+.print-version #primary {
+    width: 100% !important;
+    margin: 0;
+}
+
+.print-version .wrapper.page-inner-title.inner-banner {
+    background: none;
+    padding: 0;
+}
+
+.print-version .entry-header {
+    background-color: white !important;
+}
+
+.print-version .entry-header .col-md-8 {
+    width: 100% !important;
+    text-align: center;
+}
+
+.print-version h1 {
+    padding: 0px !important;
+    margin: 0px !important;
+}
+
+.print-version #respond,
+.print-version #glt-translate-trigger,
+.print-version #secondary,
+.print-version .entry-footer,
+.print-version .scroll-up,
+.print-version .top-header,
+.print-version .popup-search,
+.print-version .entry-header .col-md-4,
+.print-version .sxc-follow-buttons,
+.print-version .sd-sharing-enabled,
+.print-version .footer-widget,
+.print-version .copyright-area,
+.print-version .comment-reply-link,
+.print-version .post-navigation {
+    display: none !important;
+}
+
+.print-version .entry-content>div {
+    padding: 0px !important;
+}
+
+.print-version #comments>div {
+    padding-top: 0px !important;
+}
+
+.print-version .image-full {
+    display: none;
+}
+
+.print-version .site-content {
+    padding: 0px !important;
+}
+
+.print-version .entry-content img {
+    width: 75%;
+}
+
+.print-version .entry-content p,
+.print-version .comment-content {
+    font-size: 12px !important;
+    line-height: 20px !important;
+}
+
+.print-version img {
+    max-width: 300px !important;
+}

@@ -1,0 +1,20 @@
+{
+  "name": "DobreTrejdy.com Print Extension",
+  "version": "1.0",
+  "author": "Jan Juna<mail@janjuna.cz>",
+  "description": "Build an Extension!",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_icon": "images/icon128.png"
+  },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://dobretrejdy.com/*"],
+      "css": ["print.css"],
+      "js": ["print.js"]
+    }
+  ]
+}
