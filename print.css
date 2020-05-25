@@ -68,3 +68,13 @@
 .print-version img {
     max-width: 300px !important;
 }
+
+.print-version .entry-content h1 {
+    padding-bottom: 20px !important;
+}
+
+.print-version .youtube-player {
+    margin: 0px auto !important;
+    max-width: 300px !important;
+    max-height: 200px !important;
+}
