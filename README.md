@@ -1,10 +1,10 @@
 # DobreTrejdy.com Chrome Plugin
 
-Plugin which styles articles on website [dobretrejdy.com](dobretrejdy.com) so they are print friendly.
+Plugin which styles articles on website [dobretrejdy.com](dobretrejdy.com) so they are more print friendly.
 
 # Installation & Usage
 
-1) Download project ZIP file from [here](/archive/master.zip) or here:
+1) Download extension ZIP file from [here](/archive/master.zip) or here:
 
     ![](static/github-download.png)
 
