@@ -51,6 +51,18 @@
     display: none;
 }
 
+.jp-relatedposts {
+    display: none !important;
+}
+
+#related-articles {
+    display: none;
+}
+
+.entry-content>div>p:last-child {
+    display: none;
+}
+
 .print-version .site-content {
     padding: 0px !important;
 }
