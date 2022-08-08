@@ -4,7 +4,7 @@ Plugin which styles articles on website [dobretrejdy.com](dobretrejdy.com) so th
 
 # Installation & Usage
 
-1) Download extension ZIP file from [here](/archive/master.zip) or here:
+1) Download extension ZIP file from [here](https://github.com/junajan/dobretrejdy-com-chrome-plugin/archive/master.zip) or here:
 
     ![](static/github-download.png)
 
